@@ -1,0 +1,12 @@
+# Pin to what was actually run for the paper.
+# Python 3.10.20
+cellpose==4.1.1
+torch==2.7.1          # built against CUDA 11.8; CPU-only torch also works (slower)
+numpy
+scipy
+scikit-image
+pillow
+matplotlib
+pandas
+# Fiji + MorphoLibJ (GUI tools) were used only for the independent measurement
+# cross-check; they are not Python dependencies.

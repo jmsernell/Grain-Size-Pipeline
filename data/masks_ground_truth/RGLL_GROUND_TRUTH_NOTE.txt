@@ -1,0 +1,8 @@
+RGLL03-01-1's ground truth is RECONSTRUCTED, not a retained hand mask.
+
+It is rebuilt from the retained delineation overlay
+(../delineations/RGLL03_01_1_delineated.png) by code/recon_masks.py:
+watershed recovery of the grain boundaries, then the same solidity >= 0.80 filter
+and a small minimum-area cutoff. That procedure was validated to reproduce the two
+RETAINED masks (BVLX 520, LLCR 614) and RGLL's recorded hand count (470; reconstruction
+gives 473). See the paper, Section 4.1 and Table 3.
