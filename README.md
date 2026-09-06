@@ -53,7 +53,7 @@ GitHub URL and the Zenodo DOI in the paper's Computer Code Availability section.
 
 ## Full image set
 The complete 164-image set is not required to reproduce the paper and is not stored on GitHub.
-Include it in the Zenodo record if you want it public, or provide it from the corresponding
+It can be provided from the corresponding
 author on request. The two CSVs in `results/` already capture the full 164-slide result.
 
 ## Environment
