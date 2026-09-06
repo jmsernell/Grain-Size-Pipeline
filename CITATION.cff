@@ -2,14 +2,14 @@ cff-version: 1.2.0
 message: "If you use this software or data, please cite the paper and this repository."
 title: "Accessible automated grain-size analysis of sandstone thin sections (code and data)"
 authors:
-  - family-names: "[Surname]"
-    given-names: "Joseph"
-    affiliation: "University of Pittsburgh at Johnstown"
-  - family-names: "[Surname]"
+  - family-names: "Sernell"
+    given-names: "J. Matthew"
+    affiliation: "Department of Geoscience and the Environment, University of Pittsburgh at Johnstown"
+  - family-names: "Coughenour"
     given-names: "Chris"
-    affiliation: "University of Pittsburgh at Johnstown"
+    affiliation: "Department of Geoscience and the Environment, University of Pittsburgh at Johnstown"
 version: "1.0.0"
-date-released: "2026-01-01"   # set on release
-doi: "10.5281/zenodo.XXXXXXX" # fill in after minting the Zenodo DOI
-url: "https://github.com/USER/grainsize-pipeline"  # fill in
+date-released: "2026-09-06"
+doi: "10.5281/zenodo.22544499"
+url: "https://github.com/jmsernell/Grain-Size-Pipeline"
 license: MIT
